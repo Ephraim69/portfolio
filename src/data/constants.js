@@ -183,7 +183,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "/images/alx.jpg",
+    img: "/public/images/alx.jpg",
     role: "Full-stack Developer",
     company: "ALX SE",
     date: "Jun 2022 - Sep 2023",
@@ -202,7 +202,7 @@ export const experiences = [
       "Cascading Style Sheets (CSS)",
       "JavaScript",
     ],
-    doc: "/images/alx-certificate.jpg",
+    doc: "/public/images/alx-certificate.jpg",
   },
   {
     id: 0,
