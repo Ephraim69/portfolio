@@ -34,7 +34,6 @@ The portfolio website includes the following features:
 - **About Me**: A detailed section about my journey and experience.
 - **Skills**: A showcase of my technical skills.
 - **Projects**: Dynamic rendering of projects I've worked on.
-- **Blog**: A section for technical articles and tutorials.
 - **Contact Me**: A contact form with input validation and a backend API.
 - **Responsive Design**: The site is optimized for mobile and desktop views.
 
