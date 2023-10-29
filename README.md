@@ -1,4 +1,4 @@
-# [Your Name]'s Software Developer Portfolio
+# Portfolio - Ephraim Igbinosa
 
 ## Table of Contents
 
@@ -34,7 +34,6 @@ The portfolio website includes the following features:
 - **About Me**: A detailed section about my journey and experience.
 - **Skills**: A showcase of my technical skills.
 - **Projects**: Dynamic rendering of projects I've worked on.
-- **Blog**: A section for technical articles and tutorials.
 - **Contact Me**: A contact form with input validation and a backend API.
 - **Responsive Design**: The site is optimized for mobile and desktop views.
 
@@ -72,6 +71,7 @@ To start the development server and view the portfolio in your default web brows
 
 ```bash
 npm start
+```
 
 ## Contact
 
@@ -82,6 +82,5 @@ If you'd like to connect, you can reach me through:
 - [Twitter](https://twitter.com/EphraimIgbinos)
 - Email: [ephraimigbinosa@gmail.com]
 
-Feel free to shoot me a message!
+Feel free to leave me a message!
 
-```
